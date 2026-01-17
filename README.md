@@ -1,5 +1,4 @@
-
-#Aleksandra Polek 204150 grupa 4a 
+Aleksandra Polek 204150 grupa 4a 
 # Projekt SCADA 
 ## Opis Projektu 
 Aplikacja jest symulatorem systemu SCADA napisanym w języku Python przy użyciu biblioteki graficznej PyQt5.  
